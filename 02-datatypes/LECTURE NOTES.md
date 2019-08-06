@@ -68,7 +68,7 @@ _remember to ask for general questions!_
 
 _remember to ask for general questions!_
 
-- Kahoot [8-10]
+- Kahoot [5-7]
 - Self Assessment I
 
 
@@ -97,7 +97,7 @@ _remember to ask for general questions!_
 
 _remember to ask for general questions!_
 
-- Kahoot [5-7]
+- Kahoot [8-10]
 - Self Assessment II
 
 

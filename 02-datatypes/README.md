@@ -1,35 +1,45 @@
-# Data Structures
-* Lecture Exercise: <https://github.com/Joshua-Miles/data-structures-lecture-exercises>
+# Datatypes and Programmatic Thinking
 
 ### Learning Goals
-
-- Explain the differences between Arrays and Hashs 
-- Use `each` to find a specific element in an array
-- Use `find` and  `select` to find specific things in an array
-- Use `map` to turn an array of one thing into an array of another thing
+- Describe structures with hashes and arrays
+- Use `each` to run code for every element in an array
+- Create functions
+- Use a methodology to solve problems
 
 
 ### Vocabulary
-* Array
-    * Unenumerated list of elements (we don't know how many there are)
-* Hash
-    * An enumerated list of elements (we know how many there are, and we give them names)
-* each
-    * let's us run code for each thing inside of an array
-* find
-    * returns a **single thing** inside an array that matches a condition
-* select
-    * returns an array of things that match a condition
-* map
-    * Exchanging each element in an array (turns an array of one thing into an array of another thing)
+*  string / symbols / numbers
+    * literal values that can be concattenated, shown to users, etc
+- hashes
+  - containers for other variables
+- arrays
+  - a container for **unenumerated** elements
+  - 
+#### I) Think Pair Share
+- We're planning an app that's going to do some analysis for an airline. 
+- Each of our airlines have a list of passengers who've flown with them
+- Our app should:
+  - Find the total distance all of the airline's passengers have traveled
+  - Find the average distance all of the airline's passengers have traveled
+  - Find the passenger who has traveled the farthest
+**For right now**, design the data structure to represent our airline- what type of variable should the `airline` be? If it's a container for other variables, what will _those_ variables be? 
 
-- *Think-Pair-Share:* 
+#### II) Self Assessment
+* Open `index.rb`
+* At the bottom of the file, using iteration, find the total distance that all of the airline's passengers have traveled
+* `puts` the result
+* If you run `ruby index.rb` in your terminal, you should see the result.
 
-1. Categorize each of the following things as being better modled by an array or a hash, or a specific combination.
-2. When you're finished, get with a partner and compare your conclusions. Discuss any differences between your answers and how you arrived at the conclusions you did.
+#### III) Self Assessment
+* Wrap the code you wrote in the previous self assessment in a function 
+* What arguments will the function need?
+* Have the function return the result.
+* After you've defined the function, invoke it, and use `puts` to display the result in the terminal
 
-* A list of potential pet names
-* A pet with a name, age, and favorite toy 
-* A list of movies titles in theaters
-* A school with a name and multiple cohorts which each have a name and start date
-* A super hero with a name, and alias, and a few abilities which each have a name and coolness level
+#### IV) Self Assessment
+* Think about writing the code to find the passenger who has traveled the farthest. Answer the following questions:
+    - What data do I _absolutely_ need to solve the problem?
+    - How would I solve the problem with my own hands / mind?
+    - What steps could I teach someone else so that they could solve this problem?
+    - If there are too many steps, could I break the problem into smaller problems with multiple functions?
+* When time allows, try to solve the problem. Which questions/answers helped in solving it? 
