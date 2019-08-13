@@ -74,3 +74,19 @@ Build the following methods on the BookAuthor class
 - `BookAuthor.all`
 should return all of the instance for BookAuthor class
 
+
+Author -< Books
+
+Author >-BookAuthor-< Book
+
+Books:
+* Offhanded Sorcery
+
+BookAuthor (Represent the relationship):
+* book: Offhanded Sorcery, author: Josh
+* book: Offhanded Sorcery, author: James
+
+Authors:
+* Josh
+* James
+
