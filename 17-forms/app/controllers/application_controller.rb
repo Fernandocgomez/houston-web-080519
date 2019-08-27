@@ -24,7 +24,7 @@ class ApplicationController < Sinatra::Base
     #     }
     # }
     post('/artists') do
-        binding.pry
+        # binding.pry
         Artist.create(params[:artist])
         # Artist.create({
         #     name: params[:artist][:name] # => nil
