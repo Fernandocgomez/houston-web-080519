@@ -1,0 +1,32 @@
+<h1>Create New Post</h1>
+<form method="POST" action="/posts">
+    <div>
+        <label>Title</label>
+        <input type="text" name="title">
+    </div>
+     <div>
+        <label>Content</label>
+        <input type="text" name="content">
+    </div>
+     <div>
+        <label>Blogger ID</label>
+        <select name="blogger_id">
+            <% @bloggers.each do | blogger | %>
+                <option value="<%= blogger.id %>">
+                    <%= blogger.name %>
+                </option>
+            <% end %>
+        </select>
+    </div>
+     <div>
+        <label>Destination ID</label>
+        <select name="destination_id">
+            <% @destinations.each do | destination | %>
+                <option value="<%= destination.id %>">
+                    <%= destination.name %>
+                </option>
+            <% end %>
+        </select>
+    </div>
+    <input type="submit">
+</form>
