@@ -1,15 +1,11 @@
-# Sinatra and MVC
+# HTML and CSS
 
-### Structural Challenges in Mod 1
-* Similar methods in two different classes
-* Methods that are super long
-* Error handling -> poor code seperation
-* Difficult to plan (no clear place to put any given code)
+### Learning Goals
+- Identify Common HTML Elements and their components
+- Use Google and CSS to style HTML elements
+- Use EJS to interpolate Ruby variables into HTML pages
 
-### Defining MVC
-* Model - Represents a single source of truth for our data
-* Controller 
-    * Joins the Model and the View 
-    * Handles the communication between the Model and the View
-* View
-    * What the user sees
+- HTML
+    - Hypertext Markup Language
+- CSS 
+    - Cascading Stylesheets
