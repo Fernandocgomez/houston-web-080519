@@ -7,7 +7,7 @@
 - Use Google and CSS to style HTML elements
 - Use EJS to interpolate Ruby variables into HTML pages
 
-
+### Vocabulary
 * Form Tag
     * Contains Inputs
 * Input Tag
