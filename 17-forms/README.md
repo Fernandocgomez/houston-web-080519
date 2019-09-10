@@ -1,9 +1,11 @@
 # Forms
 
-* Create -> POST
-* Read -> GET
-* Update -> PATCH
-* Delete -> DELETE
+### Learning Goals
+- Identify HTML elements common to forms
+- Describe how to send data from the browser to the server with a Form
+- Build a form which creates a nested hashIdentify Common HTML Elements and their components
+- Use Google and CSS to style HTML elements
+- Use EJS to interpolate Ruby variables into HTML pages
 
 
 * Form Tag
