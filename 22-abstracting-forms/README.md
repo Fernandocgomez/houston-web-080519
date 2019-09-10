@@ -1,7 +1,16 @@
-# Rails Form Helpers
+# Abstracting Forms
 
-### Self Assessments
-* Lecture Assessments: <https://github.com/Joshua-Miles/rails-helpers-lecture-assessments>
+### Learning Goals
+
+- Use `form_with` to create a form for a resource
+- Use strong param methods to filter controller input
+- ~~Use `collection_select`  to create an input for an association~~
+
+### Common Errors
+- Unpermitted Parameter?
+    - Mass Assignment
+- AuthenticityToken Invalid?
+- Edit Forms (Making Patch Requests)
 
 ##### Vocabulary
 - Rails Helpers

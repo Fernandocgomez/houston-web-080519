@@ -1,12 +1,9 @@
 # Authentication
-* <https://github.com/Joshua-Miles/auth-lecture-assessments>
 
 ### Learning Goals
-
-- Define Authentication, Authorization, Hashing, Encryption, and BCrypt
-- Add a secure password to a user model using `bcrypt` and `password_digest`
-- Implement a sign in form
-- Implement authorization for every page in our application
+- Define Authentication, Hashing, Encryption, and BCrypt
+- Add a secure password to a user model using `has_secure_password` and `password_digest`
+- Check password equivalence with `.authenticate`
 
 
 ### Vocabulary
@@ -19,3 +16,15 @@
     * Example: mustang22 -> $askldejfio\$e.ljasldkf
 * Encryption
     * The process of transforming a string in a reversable way
+
+```
+Create Account:
+Mustang22 => tre35%22!
+            => treasdff3!
+            => absrasde4
+            => cde3t4wew!
+
+Login:
+Mustang22 => tre35%22!
+
+```
