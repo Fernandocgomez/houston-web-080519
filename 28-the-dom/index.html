@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <h1>My Awesome Game</h1>
+        <img id="tree-1" src="./assets/tree/static.gif"/>
+        <img id="tree-2" src="./assets/tree/static.gif"/>
+        <img id="tree-3" src="./assets/tree/static.gif"/>
+        <img id="tree-4" src="./assets/tree/static.gif"/>
+        <script>
+            imagesArray = document.querySelectorAll('#tree-1')
+            for(index = 0; index < imagesArray.length; index++){
+                imagesArray[index].remove()
+            }
+        </script>
+    </body>
+</html>
