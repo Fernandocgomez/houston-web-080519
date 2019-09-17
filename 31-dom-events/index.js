@@ -41,7 +41,6 @@ function walkRight(){
 }
 
 function walkLeft(){
-    console.log('walk left was called')
     character.src = `${ASSET_ROOT}/walkleft.gif`
     direction = 'left'
 }
@@ -52,7 +51,6 @@ function walkUp(){
 }
 
 function walkDown(){
-    console.log('walked down was called')
     character.src = `${ASSET_ROOT}/walkdown.gif`
     direction = 'down'
 }
@@ -80,14 +78,14 @@ document.addEventListener('keydown', function(e){
 })
 
 
-document.addEventListener('keyup', function(e){
+document.addEventListener('keyup', function(){
     stop()
 })
 
-document.body.addEventListener('click', function(e){
-    console.log('Success')
+document.body.addEventListener('click', function(){
+    // console.log('Success')
 })
 
-character.addEventListener('click', function(e){
+character.addEventListener('click', function(){
     alert('Ouch')
 })
