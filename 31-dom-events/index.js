@@ -4,12 +4,12 @@ const character = document.createElement('img')
 character.style.width = '75px'
 character.style.position = 'absolute'
 character.style.left = '0px'
-character.style.top = '0px'
+character.style.top = '100px'
 character.src = `${ASSET_ROOT}/static.gif`
 document.body.append(character)
 
 let direction = null
-let speed = 0.25
+let speed = 0.5
 
 setInterval(function(){
     // console.log('loop is running')
@@ -82,10 +82,29 @@ document.addEventListener('keyup', function(){
     stop()
 })
 
-document.body.addEventListener('click', function(){
+document.addEventListener('click', function(){
     // console.log('Success')
 })
 
 character.addEventListener('click', function(){
     alert('Ouch')
 })
+
+let form = document.querySelector('.settings-form')
+form.addEventListener('submit', function(e){
+    e.preventDefault()
+    let speedInput = document.querySelector('.speed-input')
+    speed = parseFloat(speedInput.value)
+})
+
+// For Negative Numbers ~= slower speed:
+// let form = document.querySelector('.settings-form')
+// form.addEventListener('submit', function(e){
+//     e.preventDefault()
+//     let speedInput = document.querySelector('.speed-input')
+//     if(parseFloat(speedInput.value) < 0){
+//         speed = 1 / ( 2 ** Math.abs(parseFloat(speedInput.value) ))
+//     } else {
+//         speed = parseFloat(speedInput.value)
+//     }
+// })
