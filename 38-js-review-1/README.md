@@ -3,8 +3,9 @@
 ### User should be able to:
 
 * See a list of pets
+
 * Create a pet
-* Remove a pet
+
 
 
 
