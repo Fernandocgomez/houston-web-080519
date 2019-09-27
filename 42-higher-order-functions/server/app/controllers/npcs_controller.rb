@@ -7,7 +7,7 @@ class NpcsController < ApplicationController
     end
     
     def index
-        render json: Npc.all
+        render json: Npc.all, include: [ :steps ]
     end
     
     def show
@@ -39,5 +39,4 @@ class NpcsController < ApplicationController
     def current_npc
         @current_npc
     end
-
 end
