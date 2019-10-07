@@ -4,11 +4,6 @@ import { dragons } from './dragons.js'
 class App extends React.Component {
     render(){
 
-        let obj = {
-            foo: 1, 
-            bar: 2
-        }
-
         return (
             <div>
                 <Title />
@@ -18,15 +13,12 @@ class App extends React.Component {
     }
 }
 
-function Test1(props){
-    console.log('Test 1:', props)
-    return <h1>{props.obj.foo}</h1>
-}
+// class Title extends React.Component{
 
-function Test2(props){
-    console.log('Test 2:', props)
-    return <h1>{props.foo}</h1>
-}
+//     render(){
+//         return <h1>Dragons</h1>
+//     }
+// }
 
 function Title(){
     return <h1>Dragons</h1>
@@ -71,11 +63,6 @@ let DragonCard = ({ name, description, image }) =>
             <img src={image} width="100px"/>
         </div>
 
-// class Title extends React.Component{
 
-//     render(){
-//         return <h1>Dragons</h1>
-//     }
-// }
 
 export default App
