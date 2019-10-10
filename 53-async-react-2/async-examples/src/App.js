@@ -16,12 +16,6 @@ class App extends React.Component {
 
     incrementCounter = () => {
         const { counter } = this.state
-
-        // Optimistic Rendering
-        //  * Updating the DOM before the API is updated
-
-        // Pessimistic Rendering
-        //  * Waiting until the API is updated before updating your DOM
         this.setState({ counter: counter + 1 })
         fetch('http://10.185.3.83:3001/my-route', {
             method: 'PATCH',
@@ -32,9 +26,6 @@ class App extends React.Component {
                 counter: counter + 1
             })
         })
-            // .then( response => response.json())
-            // .then( response => )
-
     }
 
     render(){
