@@ -1,20 +1,15 @@
-# Async React
-
+# React Router
 
 ### Learning Goals
-- Recognize common React Lifecycle methods and when they will be invoked
-- Use `componentDidMount` to run make a fetch after the first render
-- Use fetch to save data back to the server after an event
 
-
-### 
+- Define client side routing
+- Use `BrowserRouter` and `Route` to create distinct application pages
+- Create dynamic routes using request params
+- Use `Link` to provide navigation between application pages 
+- Explain the advantages of dynamic routes over over passing `props ` with Link
 
 
 ### Vocabulary
-* Lifecycle Method
-    * An object method which is called automatically
-* `componentDidMount`
-    * A lifecycle method which runs **once** after the first render
-* `fetch`
-    * A function which can send HTTP requests 
- 
+
+* Client Side Routing
+    * Map paths to specific components
