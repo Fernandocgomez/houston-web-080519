@@ -1,16 +1,13 @@
-# Realtime Apps with Node
+# Realtime Applications with Socket.io
 
 ### Learning Goals
-
 - Explain the purpose of WebSockets
-- Respond to `wss` requests with socket io
-- Sync data between multiple clients
+- Request data for the client from the server
+- Emit data from the server to a client
 
-`.on`
-- kind of like an event listener
-    - Arg 1: an event type
-    - Arg 2: a callback function
 
-`.emit`
-    - Arg 1: an event type
-    - Arg 2: a payload
+
+### Vocabulary
+
+* WebSocket
+    * A two-way connection between the browser and the server
