@@ -6,7 +6,7 @@ export class PassengerList extends React.Component {
         return (
             <div>
                 {this.props.passengers.map( passenger => (
-                    <PassengerCard key={passenger.id} passenger={passenger} setId={this.props.setId} />
+                    <PassengerCard key={passenger.id} passenger={passenger} />
                 ))}
             </div>
         );

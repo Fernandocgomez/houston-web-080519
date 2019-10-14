@@ -11,7 +11,7 @@ export class PassengerShow extends React.Component {
     } 
 
     componentDidMount(){
-        fetch(`http://localhost:3001/passengers/${this.props.id}`)
+        fetch(`http://localhost:3001/passengers/${this.props.match.params.id}`)
             .then( response => response.json())
             .then( passenger => this.setState({ passenger: passenger }))
         fetch(`http://localhost:3001/airlines`)

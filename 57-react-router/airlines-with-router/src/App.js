@@ -5,13 +5,6 @@ import { BrowserRouter, Route } from 'react-router-dom'
 
 class App extends React.Component {
 
-  state = {
-    id: null
-  }
-
-  setId =  id => {
-    this.setState({ id: id })
-  }
 
   render() {
     return (

@@ -21,7 +21,7 @@ export class PassengerIndex extends React.Component {
             <div>
                 <h1>PassengerIndex</h1>
                 <Search />
-                <PassengerList passengers={this.state.passengers} setId={this.props.setId} />
+                <PassengerList passengers={this.state.passengers} />
             </div>
         );
     }
