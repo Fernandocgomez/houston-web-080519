@@ -7,7 +7,7 @@
 ### Learning Goals
 
 - Changing state in a parent component
-- Making declarative changes to state
+- Making declarative changes to state (updating an element in an array in state)
 
 
 
@@ -19,11 +19,14 @@
 
 ### Component Hierarchy
 
-* App
-  * state 
+* App 
+  * state
   * DragonCard []
+
+
 
 ### Inverse Dataflow
 
 * Empowering the child to change the state of it's parent
+* By having the parent pass a callback function
 

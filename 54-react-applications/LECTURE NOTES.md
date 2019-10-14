@@ -27,8 +27,8 @@
   * What pages do we need?
 * ~~Planning Components~~
 * ~~Building a static version~~
-* Add in the data
-* Add inverse dataflow
+* ~~Add in the data~~
+* ~~Add inverse dataflow~~
 
 
 
