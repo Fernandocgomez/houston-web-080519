@@ -1,0 +1,577 @@
+{
+  "roy-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "RandoDrag",
+      "image": "https://image.shutterstock.com/image-illustration/blue-dragon-3d-illustration-260nw-688185808.jpg",
+      "id": 5
+    }
+  ],
+  "hans-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "x",
+      "image": "",
+      "id": 6
+    }
+  ],
+  "hermann-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "Charizard",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/611cdPVaaaL._SX425_.jpg",
+      "id": 7
+    }
+  ],
+  "maruf-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "hi",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 5
+    },
+    {
+      "name": "raul",
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "RRRRRR",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 7
+    },
+    {
+      "name": "maruf",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 8
+    },
+    {
+      "name": "josie",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 9
+    },
+    {
+      "name": "josh",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 10
+    }
+  ],
+  "feven-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "FEVEN",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 5
+    },
+    {
+      "name": "FEVEN",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 6
+    }
+  ],
+  "carlos-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "caafaf",
+      "image": "asss",
+      "id": 5
+    },
+    {
+      "name": "Carlitos",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 6
+    }
+  ],
+  "stefan-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGBcVFhgXGBcYFhgYGBUXFxgYFxgYHSggGBolHRcVITEhJSkrLi8uFx8zODMtNygtLisBCgoKDg0OGhAQGislHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALEBHAMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAQIHAAj/xABAEAABAgQEAwYDBwMCBQUAAAABAhEAAwQhBRIxQQZRYRMicYGRoTKx0QcUI0JSwfBy4fFikjOCorLCFUNTVNL/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAlEQACAgICAgIBBQAAAAAAAAAAAQIRAyESMRNBImFRBDJCseH/2gAMAwEAAhEDEQA/AN1VJjCp8SfdTrGRI5xkcoGVvGoSYMVIHKM/doNDToXLkxCaF94cfdjGRI6RLRamIFUJEa/dzFjTI5iCZdMk6iJZpaKetB5RsgHrF2RQSzqn5xqvCZfKIdoTkisSEE84Im0hZ3aLbSYchmy+ESzMHB2g2NSKGqSodYhVTA6xbqzCmOkBTsOtaEVZVp2H2cGAl0sWWso1JFwYEVTdItMVlemyyIEWqLJXUrMwfnAAoQdbQxWJCoxljD6Vg4UbEfvDEYGCLBodgVAJMTIWecWGdw+WcG28K5tEU6i0Kxg4XGQI2TKvYQpxzEACqUi2Vs6wbv8ApHJrP4GGtjGMYJhbw8p80vk6g7uz6h9ocqpzA+wBFKj2WMYhLKUj+tAP+9MTSO8HGmx5+HSAYPMT9I9KSczdCfQgfvElXOQlKwqygkkdbFiPMRBVVBlJJIabNtLRulBJYnk5J9uUAmEoDgHmH9Y1UmIcTrTTJlJyBTyxzDEAAH526Qik4zNCsxIIJ0It5Q1FsSLDkiNZaI6fF5a9e6eR08j9WjMxYNwXhDMonxOJ55wvUYkQu0AHWaOc2sGKy8oUIJe0MZJJgs52jGW+kbZgIlWm2kQKh2TRKgvyidMjnA0sc4YSAjnBYqMyKUQSKAnQQVTyhsYYINoGNWKRR9Imp6Ak6H+c4aykPDamlgCwiaspJsX0+HAC4cxL90HKGeWMZYrga8RTPw4K2ELqjDD+l/ARY5kwCBp1RyhUK6KvWYWVhinSKti2FCW5LvtF5m1JBe8LqhBW7peKpUTyOdTH8YgVFtrMMfZoAm4M0QPkIpcwC+8NsPqwosYWV1J2dyWHnaBBXSkpcLc8hc+zt5wqKTLcuXL5vzA0hNitNIlS1TFlgLsSznYAbnwip1vE5AKcqf8AmzFvIFn9YrU+sJvvzP7coKLHNXjMxaSJYEhG5d5hHQ/l8rxXlzgCnLokg+JBe8ahT6x6SO+nxEWkB0SbhomzZE5imxUpwQrKUghJ8yLeMM10CS5FoMkAKSFE3Iv1MepiFW5KU58yw9GiQsq/EeHKNJMUkfAWVe/dUwtzJyHwMFqEmRIlmy3QDLAPxAJHefZIteJcUxoU83vS8yFpKJyC2VYFgpJDlKwCxcXDahjFOoZWWRmUtxZKd2BVmISdwVP7xWqAWVNWqZMWpV/ysRYX28Bm9oMwwGZNClHtFFlTlEOEIzgKYndrPs7CF01D2Zk7kkOTqSSLJiaZWrlpKUqIQvJmS1iEXT3TqN76xfFVSAvHEFKio/BsLGY4/KWKUepKv9phPLwwTKf7vMGWZLfKWseSgdwd/wDEFcOS1LUszFrQtSQsOXM0ORmKSMoCQAGHPwh7OlhgSL2B8yB+8ZbWhHJyChRSRcEgjqI3ROLuksf56iHHG1F2c8LGiw//ADCx9svrCMJfvDZn8T/gxt2rGMpVeDZXdPsfpByUwgZ43QViwUQOhiXFAdfqKggxNT155wrnTHMRpMZmdFqRiFrxPLqhyitU87aC0TTE7FRaqfIqGEulTtFVpKsgw/oqk84WyWhlKlFOmkG0yCos0Q0k3OQAIsNNJCRaKTsaiCy5GWJ5K2ghSAY07MRoh1ROlUYWqIVzGjKS9oHIfI1RLzG+kaVsgAOIKBCRA9Qtw5ICRdzYecJpJfY6pC2ZJBECz8qQSohKRqSQAPEmF2N8TZHRToMxZsCxN+idT/NY5/jmF4lVL/ElzD0N28gwR6DziRcSw4zxxRyXyHtlf6B3fNRtHPca43mzipgZSSGGRTEeeUwXP4NnyyntJRQVnKjtPgWo6IzCwJ0DxW6+mGZTJKcpKVJUzhQLFPW4I8oaGooAq69ayCsv7P4trAyppOlh/NonFPcuf5yEaZN9toKLBVxplJtEiy8bJDaQ0BEpLRtJ1SrkY3UNXiNCmt5xQHS0Tim4iKROUHKVMXLuHBuSHDjZtCI1wb8anSobd1XiCz+YjEyRzcHoSI5+ij2KUiqlDLEoK/KshTp8C/sXEVarUUfhTAUlHdPJ+8ytdDmBe+sWqRJRmcjMeau83g+nlCbGcFWuolJly84UUhKQ2UBJcpJNkpAe2jHo0XGW9iK/IpZolqnBHccALLWewyvo/NvAwoqBcuXO8XvjKZlaWSFLSVKmFKiZaCQAmUjQMhIclrlbaJil00vtJiUP8akoHmoB42g72B0jhzCTLlSVqSlPdzgAupSloAzLLABkkgJGm5JgqfUBa8ib5SCsjRLXCX/US1uT9IhnosEGbNUkMGzJTYbPLSkn1gqnlJACUgADQAMIyuyaKtx/KeVLVyWU/wC5JP8A4iKbRq7wSdFEA/J/eLh9oc9hKkjUkrP/AGp/8opIjaP7Rh02Ty1FvGMy12jeUpwCBsB5gX94jXLvaIv0wOmTpRBjRIhvXSnJYGATII2ibJMS0wTLEQplmJ5QgEFyBDqglFRA2hdh9MVnpFpw2nbSCrHQ3wxOUMBDqXpCyUloNlzmEJ6CgjPEUybsICqa4DxiGVUPqYlyIYxloeCUsIXCtG0SIqHhp0Pokq6kCwBUrZI1PU8h1MLpmDTJ150xh+hGg8zv5ecHyyBfnr1ghM0c4djTIqDDpUlLS0hPM6k+JNzE5TGwMLcYxdEhJ/MvZI+aj+UdTDsoi4slJVSzQrQDP5oOYe4A84+a55JmEqJUMxc6lRu5PUmOg8b8armpVJlrcqsop+EDVhy+fPYRzxUwJGpgQwCctzGiza/gIllIc5toidyT6Q2BGEBw4goyAlz/AJiekpgO8qPVCgouImLtgL5zPAcwMYLqwxtAs3rGqAfcJ8QmnUUK70tVy2oOj/J4uK1pmDOkgg8o5YklNxDbD69aby1MevwnoofvGc4expl5kSuUSVOIdkCEkBTHMolgi1g+yibAxW6DiSco5BJTmY5iFGzDZLa8rwNidcpKsmfMUgEqcoLkAlJCgMwFtRYvGTi7opL2xNi80qXlBJ6qYlupGrQy4awVKh2ysqkFwlOpBCtTyNvQwiq5t1bk28B0h5ScViXLSlMhOdgFKsnMwZzlDkxvT40iWWYAkxIqcUBSyWSkOSYpVRxBPWXCso5JAA9TeBpuIzFJyrmLUORUoj0JaI4MAXFK5U+aqYrfToBoIEggAQwwTA5lS5QLC3R+pLAer8gY35JIRpISRLT5k+Zt7MfOMwViFOZKhJLEpuogu5P7AQKYwbtjO91mHFXXlCybREFmi0ypjiMKY6iMeQFV+6RmmoCpWlotcuhSrQecFpw8JFo1i7EKqSiYMAwhtSSwmMiW0ZUY0EFKqHgCdXXYRHNBaIUUyjcAxnNgbZiS5jM6pyiB5i8rvCmpqCoxn0FDRFeSXHpDymqARFQkBrwxo6kjeATRZSoxhdSEglRYC5Ow8YgpagZXJYC5J0AjnnGXE5mzCiUcstNn3Udz026w9+gSH2O8chAUmU7D8wYPzubgeEc2xDFJ1Ups6gjcklzERHaWfug6cz+8PKSlSgdpMBAAsRbTRucV0UV2ZRpRYEAaknl9YDRJEwudNEjn/YQXVzO2mFvhBuefQQfTSst8rJHO1ujwSlSGkIcTlsGG8ew/DipgBcnf9hvExk9rMKiO6NubQ7oZq3T2YZQUCkgOXHwht7w/QmxBVYctJKLhiQSoMbM4Y33EPKP7M6tclU7KUAJKgJllKAD6ap8wI6pwhwtKGWdPTnnklTqLhJJdwNM13frFzxBkyZmwCFf9ph+tAj4/nJLPESbnVoPqJOd8pfvFvAkt7R1r7PfswkzqNM6ef+K5AAZQSFEA5n3Z2ZtItSsdHE5ssxrIm5bDfbrF2+1PgsYdUITKUpUqYCpGa6k3AKSRrd/aKYKVTFTFhqQCwPU7bRVoRZeHaMEFagTmmZO4WWkJZQKX2JLekKKmqK1qUSp1HMbDUlyQTprvDDhqtIWZeYo1mAjZwH0vlYDTm+0IZnOx2c/sN4yivk7NG9IiJzLPK/8AOsYXL0be/gP7xiXNCVFw4IYwQpmcDTQ8wQP55Rt0SRF40KY8Vt84klKcQnoREmSVKCRqogDxJ/vHRKNSZMsJTZKEn5XJ87xSMNOWdLJ2UPe37xa8VkqIEpPxLIHgH3/mxjObukNFYnzCpRWS5JUfJ7fvETwbi9OJczIkuEgDxO5gKEB39FS2thE8qoStQAPnsPOKvQ0WUgzFFSv0gu39Rh7ISxG2kcuTJx6HGNlyp6cJSGifJC2ixVAQRMUElHOzpOjcy7j0gqTWvcMx3jeE4yVolqjWoWBASXUbaQZWJC7D1jEqS0U2IlpZA3EGslikBoEciB5tUYgBbisi55QjVLAiwVK31hJUyi9ol7AhzRKlbRommKbmK7j9YpSuxlk3/wCIRyP5X+f8cSAK4h4mzp7GQruD41jc8k84rFNQLm6DKncqhpQ4aTc91CdSd+gbX/ME1KUhLILDpv4vGi0S3YvSmTK0csNdvSE2JYhMnKZy3IbfUxviE7RKbnUnaCsHw4rLIHUqOg/v/LQ/saVGlJKKUAJSAepDe8a19QtIILZjYjfnry0i0JwVPZqdSswBPSw5bRRpqu/r4P0P+YlNNj2EUsohg7RdOBZCStRy3SLPq5s/ziu4LQFXeOh9T9B1i14HT9l2h55WPg/1iJzXQ1H2XSmxDKW5QJx3j+WgnMWKk5R4qIH7wulV5HxAK6nUecJ8ekGqmyKYEgKVmmG1ksWHiWU3hC5aoEtgf2ZcFImp7eeHQfgRdOZie8SL5Og1blr2HDZSZUpEpHwoSEDwAYQvpacS0AAMlICUgdAwgmXOyJKjpFwkDZzL7cJZnTqSTLDrUFBPipSUj0YmGmF4NKp5CZCUjKAyjusn4lK5kl41noE+qNWvUOiUNgkOM3iXJ8CITcWcXJpE5UsqYpwmzgHb3/h0gbsdHJsRlmTX5QrKUTSgnRgFZSfR4xi+Drlz1SrpYkEkukb2Ul3cNpBtbOmdoqZ3yoLUvtJgShN1k9oFJ7xBN2Fg4Ae0Azq0TSSGcfEoDUZhcJ1301PONU2OiCVTyEkZyo83LA9bX94kUmWzJtobaacjFq41+zwUslNVKndtJVkD2JOfRSSmxSeTW5mKaumCNzeKTT3YgaqlFn2FotsnhOWENmVnb4ntmblyinTgSdSRHROHcSRNkpcntUpAWkjVu7mHPb1hZG0lQIqWI4POklOYAglgpLkHoXFj4xdMBTLmoM/OCq4Uf0pSNvFs3n0jesIUgoVdJ1HMcorgnGllz5Acpm5TLV/puFv1YAGMr5IbVCjEqnNMWvmT84ESqIJq7xuhVo3Sons7jgchrqFzcDkPDnDmeAPcf9MKqeeUrCo2q6wZk31Uph4AfWPElklOVs64wUUOl5VIClAHuj3ECUU9ioAuhJNnNrsSNucCyKolGU/lLeW3s0JK7FxJMyZ/qZI/UQG/YkxWNSvREkqOl088sHuOcNKdAUHEVfDQtMmQSSSuXLKgdlZRmB5XeHlJOI00N42hlaezNxCp9MYCXRGDVVSjpaNUTjpGnmVi4i5dCd4Am04e1zFh1hJxjiKaamVNtm+FA5qNhDjPk6QmqKZxPjBSrsJSh2n51C+Qcv6jAWE4Wta0oQCVK5+pUo+peI+C8HXUTLByTmWtWg5k8+QHjHYMMwmVISyA6mus/EfoOgjZviRVlXlcHoQllLUT0ACQfBiT5mOeY1NCCQ/i2juRb0jrHFmIGRJUofEe6jx/V5fSOWUmBrqpqUJ1JAfkBqT4AP8A5gjO9sfGtIrtLTKWtIAcrIA5XLBo6dQUKZSBLSNNTzO5gqbwrLp56FS0nKmWwcuStyCr0+YjcyLxlkm5FpULuIPw6WcvkhTeLECOYYXS9tNYuwGYt52vzLR1Hi6hK6KckFiE5+b5CFEebNFH4QpcznoSfUhveHB1BsT7HtMcqQIMROtaIjTkRmXLjIoLlKMWbhjBgFGcu8xfolOwHlvCXBZGZd9BF1RNCJfU/KKiiGTTVAlhtFb41x+XTye8pibAXckkDQOWD3Owg+fX9mlSwHISSBzYOBHHeIlVE2rSmbPTMqilKQlMsiTJSoBcwqKixOVIFtX2MaoEifHuOEt2UkqSWLrKRq6Wyvsz36huRS/ZtLl1FaubUntOzSFJSbg95gSDqB9No0XgCJ1RMSgkS5ZCFLJcqUNQhrMNLvfrpBiGF/c58ibIKlurJkdlEkbNs3yHOKTVUuxssuHU/wB4rRPqZSFSJRXTyZLdz8POsOk2UxVlBNjl0DCBvtEnCrqqaTKpiiZlUkFQSkLSSlh+GT3E5VXOj+cH1M7Ikgbq7SxYgn4mbnf1MKqZITOM8rmLmtlClqchPJISAAPKJU92Og7izLTYZR0H5wozFsSpJKQXIJuxXMJH9Mc7nLdx6RY+LqtUyYlRLgICR6qJ+cLMCwn7zPyFWRLFa1askMLDckkDzjWLpWyRRKTeCaerVJmCYjUWIOigdQf5tFl4g4URJQJkiYpYFlpWzh/zBgLOwbrFfNI4fTpFKSkgLNhuKyqiwOVe6Fa+X6h4RV+IcQzrLHujup8Nz4k/tGiJaUJ7RWtxLHXdXgPnC2aXzeQH7/KCEFyG3oheCEaRAgQVLNtY1kSdmmTmY8jfw/hiGqqBa1wXfxB+kCGpDO4Yg/tC2diCVKsoWZ7ja0eLGDOpyG6a1QQb3Ufd2hBxAodond0v6qVrBs2rDd1QtcDcsH+vpCqrSTMKjfR7co6cMadmc3Z0nhKuKpctJayEEEO9ydfSLdKq0oEsK/OrIPHIpfySY5thNcqUhIDOEps5ZtQbAtr7QZM4iMyopvhIQpaiEOe8pCpYdxrf3iXC7oRe8drTKp5s2UUlaElQCgWtq/k8Y4XrZtRTidMy30CX83iuYjj8mbS1CQrvhBSUkEEFTJ31Yn2htwmo/c5YH6iPYGM8keNDT0WGOY8eViqqtRSyhmEuxA0M1Wv+0WfZ1covuIYj92kzJqw4Skluah8KfMsPOK/9n+C9kgzpxH3ic6i9iEqOb1US58hzjTG+CciGrH+AYWmllBCWfVSuZ+kNROMRFMC1tSZSJkwtlQjMA1yQ5L9D3R6xlyk3ZVUVziGpNTUCSi5B7PoGPfPrr0TFow7C5chCUpFwCCrclTFR/wCkekVvgqnPenKuTYE7vdZ8y3vFrNTfSNJ5P4kpezWokZhCxVCXcXH0hoqr2eMmrYX0giMRTJBLpIsbEcwdYqnBOFAdum/cWUhxdnLP6COjLUlV2hNS0xk1UyYkdyckE9JibeihvzHWNF00SxfOoW2iBdGANIspmJUbxsmhKvhS7aEsHPnE8WUD4Rh2UJG+qjEtesk28BBiZhlpIXKWH/Mlj8tIVmaLqTMD8lfxxF9ImhdicwpS5iiVU8lcxaQ3aMT4pTlB9APSLZjuKi3ad1yw3H+IS1FClQd9bhtImx0VnCZHYyUSwAGDq6qN1e8DmhR2iZmUlSS6XUogeCSWHlyh1UUuWBVoO0Vy3Y6BKhRN4HJMMEAOxjSpCRBYCLFqNa0jKCSDpCzDayZTTcxBD2UCNUvdvSLSuoypJhF91VPUZinCdH59Ev8AONIvVMVFjk1aJqSQcwNj5jQjaE9dIEl1KPc1B38OpiAzRThkNdyXvbmYr2LYmqerXujT6w8cG3roGyOtqjMWVGz2A2SBt/N4jCbRqBBdPLKg42/x9I6ulozBAnlE6aRRDtrBdPJQlsx8d/aPYxiGeaShOVICUgbDKkC3S0Q229DGsibnQwWQDqNvBoGnUyk7OOkDJCkF03EG09cSHGu4jKmujW0+xzw/IlpTnWkELDKJ/IOYtqCAfKPUNUpcxQToW1s3UwvQpKmzB2LgPZ+kWnC8DkLSFoUTmSMwCgGPI7uIxlJRtsf0JsVlFCwDuH02vYwXw3NHapcPc/8AaYa1HC+dT9t3iwALqt4/3jVHCk5BJSR4h9wx0fnC80HGmxcdm2OVstSEywe+hSgzalRJW51NwLbOYsErGlSMPSpDZu1KNdApDP42ip12B1APaZCq7kjUdWMSomzDLCb/ABZjyDWfTyiZKM6p9MOh9P4nmT0ykzEJUhC+1UCWzMVGWk9AS/8AyB4slHiPbpB+FV7Av/NormHTUDLoWN3Adm+UPpOOyJBExYLKCkWF9UkBgGFhGc+6opJUHyZ0xJbOW9fnHuJ60GjUkHvLKENvdQzewVBwmy16DzF4XYlTIUuUymaZmL6WQv8AdoxjkVg4sYYalKJSEJILAOx33943mzPKAky5d3UOhBaMpp5SrFSfX+8KWRNiSJQHuD6RGtKvGJQiXJS6loSjV1KAHqTFd4p4up6eSVSly50w2lpSsF1bDulyOfQQQbbpIGO6LEUGauSlYUtCQpSOQPXn0jbEJytBaOQ8LcVLRWBc9b9qMs1TA5QEhrjQAhLtbWOoSalEwZpagtLs4uNAdd9Y6J3BkrZlM9Tajx/tAmI43Np05+3YOzNr0HOD0SQYrGLYcZ9UULJ7OUlKsujlb3f0HkYuMrQBsr7S1CymPilvkY2rOJqKoDqCpK9cybj2+kYl0UtAYS0gcgkQtrKGSs3lIPkH9RD5oYJPr3JRMUmfKOhSbjkQdQroYFVUqp1fhqE2QrYu6TuCDdJ6i0bzuHJGozoPNKj8i8Cz8LmAfhGcv+pLA+ZI+UFJgZxTEUKlliQdQNwRcRvhs4TUuPi/MOvPwhXOoJyQ8ySpugf5aQEmoyKzSyUqFxsf7w+GtCLUuhfbz3hHis1MohIZStTew8feGNLxEFpZfdXo/wCU/SFc/DgDLKg5KiVEmzcifAPErT2AsMpaz3hdTEBiNdGHLlFhxqqp6OUhBuoAAJHxKPMjZy8VTGsfCZhMpWZQNiNEgaX6RWKiqXMUVrUSTqTrHRHC5030S2FYtXrnzCWA2ZOgHLrEQpiNdOcT4RSrWpGWUpacwzAAsoA3BVoN9TFm4upUpTLmABJulSQwGgO24/eNJTUWoIVeyphP5RpzgyXMYBKdT3R5kQEZzCGXCcjtKqW4cJzKPId0t7tFS0rEuyfE8KMpibhgTzBIUf8AxhShDCLZx3VpQ0v8ysqiOQGce7iKjLpZqxmSC0RjbcbY32MaOcGY6QV2SdRCuQraCUTinwga/BSYZcQwwetKVM5APsdtIXypwVaPG0Q1emMvdPKnqAKVm4DuWEMKaqqZJBLK6P8ASKJT4oUpvMKerlvaJUYyrVM8+RX/APqOaWFv8CujpEridH/uS79H+kZOJ0Sz8IBOvd+oEc4OPzf/ALJ/2pPzETI4i/UtCvEJ/aMn+lfr+/8AClNnT5VDTrAyrQDyIb5WjE/hwrAyuQHLpOYOWubvsIolLxPJs4APNJA/eG9LxVJ/+Ug9S8YvFmj1ZSaZYUYfUyrh1DkR/b94r2O8Rz0qyZSlQsCQwJP6efrDOm4o/RU+RII9FPBFdxJLUlliWste23kdfpCjyT+UbHZTKytXnOZaixA16XtpraGOBUS5+Y9otITu97vz8Iln1NGSxQkHVwQLl+TcoWo4lkUubs88wqHwJUnL0dR+E+vhHTfJUlsWiwYh9mInkLFTMBy/+5+I6tiCSMqf4IJpuAMOpZQXWKSsj4lzFqlyyeQQFM3Qu8UOr+1XETmCTKlpPw5ZblA2CVKNz1I8orFRVzqhXaTpi5iuayS3hyHQRqsWVqpSpfRGh7Xz0/8AqMyooyhKJazNlH4U5UIS4AOuZj3d3YR37DZqJktExKQO0SlZHUpHrtePnbDypw7BtCPpHTMN+0UpTlnpSotZSTlNv1J5dR6Qs6dJL0CiXeqkAryqtm+AjmBdJ66kefKFlXgCysTEryqSGCtQR+lQe4jnGK8fTZ80pzFEtN0hByuQ3ecXU2oBIiLDuJ54X2pmqJBe5J6XBOjWiODWxnRZlNO0UlHikq+TQrn0CwfiT/tP1hjhfFEqcO8oJVuCR7HlEsyukrI74LuxBtb+aRlbTGJUyzy0iVA5Q2pZKF5rptu7RlVEnUF20bQn0v8AKL5oQmnZuULaqkQsMtAPlp4HaGOJVkumCplVMlykfkS5UtXOw1PRIPjHNuJPtFmTCUUqezRpnUAZqvAXCPc+Ea44yn+0TaQx4i+60ocrIWdJYZSj5apHUxScQxibO7gJCXshNyfFtfKH2AfZ/U1P4tQoy0m5zH8VXW+nnHSMC4Xp6YfhSxmOqzdR8zGznDH9sW2cfwnhxUxQ7U9kjqO+egTt5+kdAwfh6hlgZUBSv1TO8ryBsPIRaa7BZM18yL/qT3T6jXzeK1ifCakgqlzrC7L7rD+ofSMpZvJpuhqNDScUBNyAkeQAEcv4pxRM+YAj/hocA/qJLk+FgB4dYExjFpheUJhUnQlyQW5Pt84hocFnLAWZa8huDlN/7RviwrH8pMmTvRLhmEmYFTDaUi6rsVf6Uk79YdU+LIlOKeUlOZnck6Bh47m53gU4dUFOXLMCf0sW9IzMwWaAmWEnPMJCRuwutR3CQN+sNtSe2PoVTZc2qnkgFajaOscMcNCVToStKSrVXiQHA6RtwrgMmikp7QpE0h5iifzG+UdBo3SGyuIpAt3j1AtHPmyOXxj0NaOFJItziV4GBaJAuOwgmQr1gpFQ9jC4LiWSoamE0OxllBEL6mlKbjT5RKJg5xMJ53idoYFKnq5v43jfMTtGVou4jdKVDb2h6EbIknwiYU43UYGUoxhKX1MIVhyZSOvrBMthsIClU42cwZT0yiQACfAPEMZrUVOa3sBAk1Kv0mLKMHZDkhJL6/QefrC+tQlNgfrEqS9DK/MQdxG4n5Qw/wAQTNlqN4h+6GNbQrPUtUpO/wDOcZE0AMNP48bppjvGxlCC0I8hQ19IJlVLdNoGJAEDGo5CJqx2N5tW99+v9onk47MT+dT7XLe8V8zjGO1heNMLLbI4jmJOYFObmzH2aC5/2izkJuyj0JD9PPpFDWok/wA/hiWTKYvqeZ1/tE+CHsLY2r62bXLzz2lSyzhICpigC4dSrsORIA5Q9w77hTZZkmVmmiwMwkqHNW6QrqIq4mxsJnlDkm1XSBHQ0cUSXClpmr0tmSUjRyEBgWvq50hzh3FNPMJGfLyCwU+5sfKOQrqBo8RTKsc4y8CY+R3KdicoXM1AA1OYX6COacccWid+FLLSxrf4j16RR6yqewiGnsXN41x/plH5MHIv3B/B6VgVFSUhJuiWSlyNlLBNhyHryi6VFXSyxeai2wUP2jjyapZ0ze8SJCjqw+cRkxSnK5MaaXR0qbxJSJfKSvwsPU7QkwvFytcyqICSv8OWHbJKSdAdbqDlm0EVOzNrz8OUSqrSzD0AgWJJaFZZJuIgk+/0EQf+oTPyoDeBPvFfTUL2BHtEvaq/UB6weMLEio2j0ejrJPRvsI9HoAJZOkSx6PRDGiWmgwxiPQmDBKmNpOsZj0AguXFpwXb+kxmPRhl6GiOphDM1Mej0RjHI0TEa49Ho19kgs2NF6RmPRQC6dqYwiPR6NQJY1Mej0IDdOsTx6PQmBkbR5Uej0SAHO1iBcej0WgBxrBNPHo9GkugGSYwuPR6MBmggiTHo9AxEK9Y1XHo9DQz/2Q==",
+      "image": "new Dragon",
+      "id": 5
+    },
+    {
+      "name": "https://vignette.wikia.nocookie.net/dragonballfanon/images/b/b2/Cool_dragon.jpg/revision/latest?cb=20130104094031",
+      "image": "new Dragon",
+      "id": 6
+    },
+    {
+      "name": "https://vignette.wikia.nocookie.net/dragonballfanon/images/b/b2/Cool_dragon.jpg/revision/latest?cb=20130104094031",
+      "image": "new new Dragon",
+      "id": 7
+    },
+    {
+      "name": "NewNewNew Dragon",
+      "image": "https://vignette.wikia.nocookie.net/dragonballfanon/images/b/b2/Cool_dragon.jpg/revision/latest?cb=20130104094031",
+      "id": 8
+    },
+    {
+      "name": "hi",
+      "image": "https://vignette.wikia.nocookie.net/dragonballfanon/images/b/b2/Cool_dragon.jpg/revision/latest?cb=20130104094031",
+      "id": 9
+    }
+  ],
+  "ariq-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "Heloo",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 5
+    },
+    {
+      "name": "He",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "id": 6
+    }
+  ],
+  "jason-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "jason",
+      "image": "",
+      "id": 10
+    },
+    {
+      "name": "jason",
+      "image": "af",
+      "id": 11
+    },
+    {
+      "name": "jason",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBUSEhMWFRUVFRUVFhUVFRUVFRUQFRUWFxUVFRUYHSggGBolHRUVITEhJSkrMC4uFx8/ODMtNygtLi0BCgoKDg0OGxAQGzIlICUtLTAvKy8vLy0tLS0tLy0tLS0tLS0tLS8vKy0rLS0tLS0tLS8wLy0tLS0tLS0vKy0rLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAABAAIDBAUGBwj/xABAEAACAQIEBAQCCAQEBQUAAAABAhEAAwQSITEFE0FRBiJhcTKBFCNCUmJykbEHM5KhgsHR8CRDc8LxFRZjorL/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QALhEAAgIBAwIFAwQCAwAAAAAAAAECEQMSITEEQRNRcZHwFCLRYYGh4TKxI8Hx/9oADAMBAAIRAxEAPwDq5pZ6IoxSTO+SYg9PmiEqRbYqrRNMjo1MLVI2qFJA4shigwqbLQatYswmiuVqFgasMajcmumJw5KIhUimm0QKtmKY+nAUEFSCs2arcjK00pUppGmDSIeXTSlTinU7ZOlMq5aUVZgUcoo1B4ZViiBUxt0024osnS0FLM05rMdaaDSJqdy041wFbY605rQ6VFTxcoaY1KIRa0prL2oliacIpblbPgha3FMyVbfWgYihSE4IqEU2KndRUcVaZk0MilFPihFMQ2KFPpUDslBqRINRpUqivLaPeTJQlOy0FNSgipK2DbqxGlQg1Ij0qHYivpUL2xVoNNMYVrCVGOSNlM2arXF1rRYSKiW2K6YTOHJivZFHJRirTpURFbKVnNLHpI5ohqWWlFUTbQiaBpmJvLbRrjfCilmMT5VBJ066Co8FjLd60t22wZGEhthA0MzsQQQQdoooTbJqINY9/wARWhpbV7vqoAT3zsQGHqs1l43i964ILLZU75CSxH/UYCPkAfWtI4pS7AdVd",
+      "id": 12
+    },
+    {
+      "name": "Toothless 2",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "id": 13
+    }
+  ],
+  "luis-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "name": "Luis",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "image": "a",
+      "id": 6
+    },
+    {
+      "name": "Luis",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "id": 7
+    }
+  ],
+  "kurtis-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    {
+      "dragon": {
+        "name": "Billy",
+        "image": "http://giphygifs.s3.amazonaws.com/media/cMso9wDwqSy3e/giphy.gif"
+      },
+      "id": 5
+    },
+    {
+      "name": "Billy",
+      "image": "https://billygoattavern.com/new-site/wp-content/uploads/2017/01/12631312_1045707302163434_6505159020588403606_n.jpg",
+      "id": 6
+    },
+    {
+      "name": "my man",
+      "image": "my man",
+      "id": 7
+    }
+  ],
+  "brendan-dragons": [
+    {
+      "id": 1,
+      "name": "Toothless",
+      "description": "A Night Fury",
+      "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+      "atWar": false
+    },
+    {
+      "id": 2,
+      "name": "Smaug",
+      "description": "He is Fire, He is Death",
+      "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+      "atWar": false
+    },
+    {
+      "id": 3,
+      "name": "Bozar",
+      "description": "An uninteresting dragon",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "atWar": false
+    },
+    {
+      "id": 4,
+      "name": "Tomar",
+      "description": "An interesting dragon",
+      "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+      "atWar": true
+    },
+    [
+      {
+        "id": 1,
+        "name": "Toothless",
+        "description": "A Night Fury",
+        "image": "https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
+        "atWar": false
+      },
+      {
+        "id": 2,
+        "name": "Smaug",
+        "description": "He is Fire, He is Death",
+        "image": "http://media.comicbook.com/uploads1/2015/08/cumbersmaug-147620.jpg",
+        "atWar": false
+      },
+      {
+        "id": 3,
+        "name": "Bozar",
+        "description": "An uninteresting dragon",
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+        "atWar": false
+      },
+      {
+        "id": 4,
+        "name": "Tomar",
+        "description": "An interesting dragon",
+        "image": "https://media.giphy.com/media/bU660Y0VKPvCE/giphy.gif",
+        "atWar": true
+      },
+      {
+        "name": "Toothless!",
+        "image": "asdfads"
+      }
+    ],
+    {
+      "name": "Toothless!",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/What-are-dragons-doing-nowadays-fb3.jpg",
+      "id": 6
+    }
+  ]
+}
