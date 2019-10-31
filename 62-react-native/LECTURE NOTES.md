@@ -3,19 +3,19 @@
 
 ### Learning Goals
 
-* Explain the different uses of Reat, React Native, and Expo
+* Explain how React Native works at a high level
+* Identify Key Packages in the React Native Ecosystem
 * Use React Native components to build a basic interface on mobile
 * Use Expo to connect to a user's Camera  
-* Use Expo to connect to a user's accelerometer
 
-
-### Activation
-* People view 4.2x more products per session within apps, compared to mobile sites.
-* ![](https://www.mobiloud.com/blog/wp-content/uploads/2014/07/2017-us-mobile-app-report-5-638.jpg)
-* The same principles of declarative rendering, modular development and state management taht react embodies can also be applied to native applications
 
 
 ### Learning Goal 1: Explain the different uses of Reat, React Native, and Expo
+
+
+
+Explain the different uses of Reat, React Native, React Native Web, Expo, and Native Base
+
 ##### Timestamp: _
 
 ##### Demonstrate
